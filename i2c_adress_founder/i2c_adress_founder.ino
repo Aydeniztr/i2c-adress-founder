@@ -1,3 +1,5 @@
+//I commited this script just for archiving , I am not the owner of this script
+
 #include <Wire.h>
 
 void setup() {
